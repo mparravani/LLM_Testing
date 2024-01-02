@@ -1,0 +1,13 @@
+Data/GO_GTFS/agency.txt
+Data/GO_GTFS/calendar_dates.txt
+Data/GO_GTFS/fare_attributes.txt
+Data/GO_GTFS/fare_rules.txt
+Data/GO_GTFS/feed_info.txt
+Data/GO_GTFS/gtfs.db
+Data/GO_GTFS/routes.txt
+Data/GO_GTFS/shapes.txt
+Data/GO_GTFS/stop_amentities.txt
+Data/GO_GTFS/stop_times.txt
+Data/GO_GTFS/stops.txt
+Data/GO_GTFS/transfers.txt
+Data/GO_GTFS/trips.txt
